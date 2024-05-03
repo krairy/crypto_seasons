@@ -1,0 +1,4 @@
+pycaret
+numpy
+pandas
+plotly
