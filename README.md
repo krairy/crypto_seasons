@@ -25,3 +25,11 @@ To verify the chart above, i.e.
 * Stretch goal: to build a predictive model for the price
   
 # THIS IS A WIP
+
+## Plan to try out: 
+* ARMA family (SARIMA)
+* GARCH
+* XGBOOST
+* LSTM - won't explain anything but will maybe make us money? :D (NO)
+
+# THIS IS A FUN AND EDUCATIONAL PROJECT - NFA
