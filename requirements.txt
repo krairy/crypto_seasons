@@ -2,3 +2,6 @@ pycaret
 numpy
 pandas
 plotly
+tensorflow
+keras
+scikit-learn
